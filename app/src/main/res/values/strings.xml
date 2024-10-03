@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tasklay</string>
+    <string name="no_task_for_today">No tasks for today!</string>
+</resources>
