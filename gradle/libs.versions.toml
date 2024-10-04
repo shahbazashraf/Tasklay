@@ -17,6 +17,9 @@ kotlinxSerializaion = "1.5.0"
 nav = "2.7.3"
 appcompat = "1.7.0"
 material = "1.12.0"
+activity = "1.9.2"
+constraintlayout = "2.1.4"
+splash = "1.0.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -43,6 +46,9 @@ kotlinx-serialization = { group = "org.jetbrains.kotlinx", name = "kotlinx-seria
 navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "nav" }
 androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+androidx-splash = { group = "androidx.core", name = "core-splashscreen", version.ref = "splash" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
